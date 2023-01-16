@@ -1,0 +1,22 @@
+form {
+  margin: 20px;
+}
+.inputs label {
+  display: block;
+  font-family: "Courier New", Courier, monospace;
+}
+input [type="surname"],
+input [type="firstname"] {
+  margin-bottom: 20px;
+  width: 300px;
+  border-radius: 5px;
+  border-style: dotted;
+}
+.personal_details {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.churchdetails {
+  padding-top: 5px;
+}
